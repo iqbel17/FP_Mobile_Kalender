@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/m1/AndroidStudioProjects/KalenderIndonesia/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/m1/AndroidStudioProjects/KalenderIndonesia/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5419d15d99f8e14d577aa4d594f7ff0d83fe4a9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m1/.android/build-cache/3d7923dd522d1b6b746fed17b228f7ba2ba74427/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5094eccf53998e9bcacfb85f80e7607b39b093fd">
+        <dex dex="/Users/m1/AndroidStudioProjects/KalenderIndonesia/app/build/intermediates/pre-dexed/debug/classes_fe16bbcbac989ee5ad7e330a14ab2f5d85c10ddd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m1/.android/build-cache/a5ed6f2e8685f018e7ffbc338f8a71748a145f55/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/m1/AndroidStudioProjects/KalenderIndonesia/app/build/intermediates/pre-dexed/debug/classes_ea1810f0a921165fa2b96a1ab325f61cd1a0b5ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m1/.android/build-cache/60cd19287503d2a3ab76304a5c3951ccfe3053e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/m1/AndroidStudioProjects/KalenderIndonesia/app/build/intermediates/pre-dexed/debug/classes_4efd1fc72f4e297354ffe5418a5eb1acd40c11d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m1/.android/build-cache/6764a0df9c957a4ab876dec65bccf56a6cb348a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/m1/AndroidStudioProjects/KalenderIndonesia/app/build/intermediates/pre-dexed/debug/classes_4d22587ce9e97040d26dfdf45c3799fdffc19d19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m1/.android/build-cache/67d8dedaf09b9713f1bd0023a2ce0fbee9da5834/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/m1/AndroidStudioProjects/KalenderIndonesia/app/build/intermediates/pre-dexed/debug/classes_94c82d39e5ded2706ac05b06fccef0d7fb247d13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m1/.android/build-cache/e4ec8629cfe3c5a1c5e4cf1ed140d88079a7449e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/m1/AndroidStudioProjects/KalenderIndonesia/app/build/intermediates/pre-dexed/debug/classes_b21bc82f26ee668b1804ca65e4f7db1bde0caebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m1/.android/build-cache/37d07271e37cd83338b5ff544bcdbd8945350a7b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/m1/AndroidStudioProjects/KalenderIndonesia/app/build/intermediates/pre-dexed/debug/classes_61a21b505433782b986b04786d59e7e358030956.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m1/.android/build-cache/91b8bc74fcae3ba955ce28a3019f5fd04f3edd36/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/m1/AndroidStudioProjects/KalenderIndonesia/app/build/intermediates/pre-dexed/debug/classes_99f666e80c352cdfe477e2332156139459eff2c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m1/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/m1/AndroidStudioProjects/KalenderIndonesia/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_3e6dfdd95f27f027cec4de9e7419ff1e831058af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m1/.android/build-cache/635662848868ac82a3bcacca1e403618b3e0d6a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/m1/AndroidStudioProjects/KalenderIndonesia/app/build/intermediates/pre-dexed/debug/classes_78ee8acceb058e6cc1fbfff05b373a60e418f8e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m1/.android/build-cache/cdddc9568fd87580001185c46c7cc464e960cc3b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/m1/AndroidStudioProjects/KalenderIndonesia/app/build/intermediates/pre-dexed/debug/classes_810f025b8c670bf8862d00f44636eee952cc3e50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m1/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/m1/AndroidStudioProjects/KalenderIndonesia/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_98c903cc47d6fdba5d47350d67e76b83298b4c84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m1/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/m1/AndroidStudioProjects/KalenderIndonesia/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_b4020900977974208d68beac8ebdd1b070b642cd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/m1/AndroidStudioProjects/KalenderIndonesia/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc23a91543f706b0f374042341ea2c845dbee130">
+        <dex dex="/Users/m1/AndroidStudioProjects/KalenderIndonesia/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fd49baa04cb7965e3152820a999b5d1df8fdeb4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m1/.android/build-cache/db045c123913364175b78e0f85525051a11d37fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/m1/AndroidStudioProjects/KalenderIndonesia/app/build/intermediates/pre-dexed/debug/classes_23092db9c99b996583fc5e717a41898245095223.jar" />
+    </item>
+
+</items>
